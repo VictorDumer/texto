@@ -1,0 +1,11 @@
+desenvolvimento
+dependência para ele rodar: Dado aleatório
+
+Jest, framework para testar a api, antes de subir o código consegue rodar o comando de testar para
+ver se todas as funcionalidades estão funcionando. "Programador que sabe usar teste é um programador diferente."
+
+Package.json organiza e automatiza muita tarefa ?
+
+Dentro das url acontece um end point, nesse caso '/'
+
+Navegador
